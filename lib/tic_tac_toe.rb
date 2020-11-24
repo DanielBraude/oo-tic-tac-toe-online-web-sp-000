@@ -72,4 +72,3 @@ def turn
   else
     turn
   end
-
